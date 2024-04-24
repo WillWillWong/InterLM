@@ -29,7 +29,6 @@ Lagent 目前已经支持了包括 AutoGPT、ReAct 等在内的多个经典智�
 - 交互式 IPython 解释器
 - IPython 解释器
 - PPT
-- 
 - Python 解释器
 
 AgentLego: 是一个提供了多种开源工具 API 的多模态工具包，旨在像是乐高积木一样，让用户可以快速简便地拓展自定义工具，从而组装出自己的智能体。通过 AgentLego 算法库，不仅可以直接使用多种工具，也可以利用这些工具，在相关智能体框架（如 Lagent，Transformers Agent 等）的帮助下，快速构建可以增强大语言模型能力的智能体。

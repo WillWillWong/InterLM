@@ -12,11 +12,15 @@
 
 - 接受问题列表，希望茴香豆助手回答的示例问题
   - 存储在 `huixiangdou/resource/good_questions.json` 中
+  
 - 拒绝问题列表，希望茴香豆助手拒答的示例问题
   - 存储在 `huixiangdou/resource/bad_questions.json` 中
+  
   - 其中多为技术无关的主题或闲聊
+  
   - 如："nihui 是谁", "具体在哪些位置进行修改？", "你是谁？", "1+1"
-  - ![image-20240424095857156](C:\Users\will\AppData\Roaming\Typora\typora-user-images\image-20240424095857156.png)
+  
+    ![image-20240424095857156](./assets/image-20240424095857156.png)
 
 实战回答茴香豆如何部署到微信群
 
@@ -36,7 +40,8 @@
 > 我真是太喜欢哈利波特了
 > 如何申请宿舍
 >
-> ![image-20240424095931418](C:\Users\will\AppData\Roaming\Typora\typora-user-images\image-20240424095931418.png)
+
+![image-20240424095931418](./assets/image-20240424095931418.png)
 
 ![img](https://pic1.zhimg.com/80/v2-94e92fdd0e153871f0deecccdafdfdec_720w.webp
 
